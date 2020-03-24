@@ -1,4 +1,0 @@
-*.asp linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
-*.cs linguist-detectable=true
